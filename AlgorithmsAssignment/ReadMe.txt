@@ -1,0 +1,1 @@
+The compressed and decompressed files are located in the out folder .
